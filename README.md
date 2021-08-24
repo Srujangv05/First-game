@@ -1,4 +1,4 @@
-# Projects
+# Game
 Heyyyyooooo
-I'm Zeph and this repository contains all my college projects.
+I'm Zeph and this repository contains my first game.
 Have fun browsing through it.
